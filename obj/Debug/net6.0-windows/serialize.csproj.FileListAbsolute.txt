@@ -1,0 +1,17 @@
+E:\MÂU\serialize\serialize\bin\Debug\net6.0-windows\serialize.exe
+E:\MÂU\serialize\serialize\bin\Debug\net6.0-windows\serialize.deps.json
+E:\MÂU\serialize\serialize\bin\Debug\net6.0-windows\serialize.runtimeconfig.json
+E:\MÂU\serialize\serialize\bin\Debug\net6.0-windows\serialize.dll
+E:\MÂU\serialize\serialize\bin\Debug\net6.0-windows\serialize.pdb
+E:\MÂU\serialize\serialize\obj\Debug\net6.0-windows\serialize.csproj.AssemblyReference.cache
+E:\MÂU\serialize\serialize\obj\Debug\net6.0-windows\serialize.Form1.resources
+E:\MÂU\serialize\serialize\obj\Debug\net6.0-windows\serialize.csproj.GenerateResource.cache
+E:\MÂU\serialize\serialize\obj\Debug\net6.0-windows\serialize.GeneratedMSBuildEditorConfig.editorconfig
+E:\MÂU\serialize\serialize\obj\Debug\net6.0-windows\serialize.AssemblyInfoInputs.cache
+E:\MÂU\serialize\serialize\obj\Debug\net6.0-windows\serialize.AssemblyInfo.cs
+E:\MÂU\serialize\serialize\obj\Debug\net6.0-windows\serialize.csproj.CoreCompileInputs.cache
+E:\MÂU\serialize\serialize\obj\Debug\net6.0-windows\serialize.dll
+E:\MÂU\serialize\serialize\obj\Debug\net6.0-windows\refint\serialize.dll
+E:\MÂU\serialize\serialize\obj\Debug\net6.0-windows\serialize.pdb
+E:\MÂU\serialize\serialize\obj\Debug\net6.0-windows\serialize.genruntimeconfig.cache
+E:\MÂU\serialize\serialize\obj\Debug\net6.0-windows\ref\serialize.dll
